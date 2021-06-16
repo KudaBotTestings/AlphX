@@ -16,11 +16,21 @@ with your own bot token you can add the test bot to your discord
 
 # Setup Instructions
 
+Download the source code!
+
+create a [application](https://discord.com/developers/applications) 
+and make a [discord bot](https://discord.com/developers/docs/intro)
+
+in the [js folder](js) there should be a [configs folder](js/configs)
+edit the main config file [config.yaml](js/configs/config.yaml)
+edit the token field and put your bot token in there!
+
 This bot is coded in js so you will need to install NodeJS 
 which you can install [Here](https://nodejs.org/en/)
 
 After you have installed NodeJS install this node package called 
-yarn using this command ```npm install -g yarn```
+yarn by opening cmd prompt and running ```npm install -g yarn```
 
 After you have installed the node package yarn 
-run the command ```yarn run start```
+cd into the [js/](js) folder and run ```yarn run start```
+to start the bot!
