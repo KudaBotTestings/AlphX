@@ -6,7 +6,7 @@ easier to make then in java but i will have a java version put up
 around after i code this one. 
 
 if you want to see the java code right now 
-which it probs hasnt got anything yet [click here](/tree/main/java)
+which it probs hasnt got anything yet [click here](java)
 
 # Setup Instructions
 
