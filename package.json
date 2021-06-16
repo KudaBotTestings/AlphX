@@ -1,7 +1,7 @@
 {
   "name": "alphx",
   "scripts": {
-	"start": "node ."
+    "start": "node ."
   },
   "version": "0.1.0",
   "description": "AlphX!",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "js-yaml": "^4.1.0"
   }
 }
