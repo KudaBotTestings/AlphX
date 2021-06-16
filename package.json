@@ -1,0 +1,16 @@
+{
+  "name": "kuda-moderation",
+  "scripts": {
+	"start": "node ."
+  },
+  "version": "0.1.0",
+  "description": "Kuda's Moderation!",
+  "main": "index.js",
+  "repository": "https://github.com/KudaBotTestings/Kuda-Moderation",
+  "author": "ImKuda, GStudiosX",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
