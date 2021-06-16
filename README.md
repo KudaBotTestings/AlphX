@@ -39,5 +39,3 @@ yarn by opening cmd prompt and running ```npm install -g yarn```
 After you have installed the node package yarn 
 cd into the [js folder](js) and run ```yarn run start```
 to start the bot!
-
-This page is only accessible if your a bot developer for kuda's bot testings 
