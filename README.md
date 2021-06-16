@@ -1,6 +1,6 @@
 # Kuda-Moderation
 
-To run this bot you will need to follow these [setup instructions](#setup-instructions)
+To run this bot you will need to follow these [Setup Instructions](#Setup-Instructions)
 The java version will be also worked on but i will work on JS version and its much
 easier to make then in java but i will have a java version put up
 around after i code this one. 
@@ -8,7 +8,7 @@ around after i code this one.
 if you want to see the java code right now 
 which it probs hasnt got anything yet [click here](/tree/main/java)
 
-# setup instructions
+# Setup Instructions
 
 This bot is coded in js so you will need to install NodeJS which you can install [Here](https://nodejs.org/en/)
 
