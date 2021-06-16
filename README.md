@@ -8,7 +8,7 @@ around after i code this one.
 if you want to see the java code right now 
 which it probs hasnt got anything yet [click here](java)
 
-# Test The Bot
+# Testing Bot?
 
 If you dont want to download the bot and run it yourself
 with your own bot token you can add the test bot to your discord
