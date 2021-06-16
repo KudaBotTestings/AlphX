@@ -32,5 +32,5 @@ After you have installed NodeJS install this node package called
 yarn by opening cmd prompt and running ```npm install -g yarn```
 
 After you have installed the node package yarn 
-cd into the [js/](js) folder and run ```yarn run start```
+cd into the [js folder](js) and run ```yarn run start```
 to start the bot!
