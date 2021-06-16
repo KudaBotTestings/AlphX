@@ -1,4 +1,4 @@
-# Kuda-Moderation
+# AlphX
 
 To run this bot you will need to follow these [Setup Instructions](#Setup-Instructions)
 The java version will be also worked on but i will work on JS version and its much

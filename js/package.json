@@ -1,12 +1,12 @@
 {
-  "name": "kuda-moderation",
+  "name": "alphx",
   "scripts": {
 	"start": "node ."
   },
   "version": "0.1.0",
-  "description": "Kuda's Moderation!",
+  "description": "AlphX!",
   "main": "index.js",
-  "repository": "https://github.com/KudaBotTestings/Kuda-Moderation",
+  "repository": "https://github.com/KudaBotTestings/AlphX",
   "author": "ImKuda, GStudiosX",
   "license": "MIT",
   "private": false,
