@@ -1,0 +1,22 @@
+#
+# Config.yaml
+# -------------
+# 
+# Anything that gets changed here
+# will most likley change in every server
+# this bot is used in but it will keep some of 
+# the persons settings from there panel where
+# they have setup custom commands and other stuff!
+# 
+
+#
+# Bot Token
+#
+token: ""
+
+#
+# Language settings (DEFAULT: en-us)
+#  Languages :
+#   en-us
+#
+lang: "en-us"
